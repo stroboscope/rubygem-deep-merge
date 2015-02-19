@@ -1,0 +1,11 @@
+rubygem-deep-merge (1.0.0-2) UNRELEASED; urgency=medium
+
+  * built for jessie 
+
+ -- Sergey Viuchny <sergey@de-bs.ru>  Thu, 19 Feb 2015 22:16:41 +0300
+
+rubygem-deep-merge (1.0.0-1) precise lucid squeeze wheezy; urgency=low
+
+  * Initial package for rubygem-deep-merge
+
+ -- Melissa Stone <melissa@puppetlabs.com>  Fri, 26 Jul 2013 11:39:12 -0700
